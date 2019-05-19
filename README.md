@@ -7,21 +7,29 @@ Server-side logging, logs in console by default. In production mode it will send
 Add the module to your dependencies using yarn
 
 ```
-yarn add git ssh://git@rulsoft:11022/rulsoft/node-server-logger.git
+npm install node-server-logger --save
+```
+
+```
+yarn add node-server-logger
 ```
 
 ## How to use the logger 
 
 Import the logger in your app 
 
+```javascript
+import Logger from 'node-server-logger'
 ```
-import Logger from 'rulsoft-server-logger'
+
+```javascript
+const Logger = require('node-server-logger')
 ```
 ## Setting up your logger
 
 The logger accepts the following arguments
 
-```
+```javascript
 const logger = Logger('name', 'mode', 'level', {options})
 ```
 

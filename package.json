@@ -1,7 +1,7 @@
 {
-    "name": "rulsoft-server-logger",
+    "name": "node-server-logger",
     "version": "1.0.0",
-    "description": "Rullon Solutions SPA Node Server Logger",
+    "description": "SPA Node Server Side Logger",
     "main": "index.js",
     "scripts": {
         "compile": "npx babel ./dist --out-file ./index.js",
@@ -9,9 +9,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "ssh://git@rulsoft:11022/rulsoft/node-server-logger.git"
+        "url": "https://github.com/VelizarMihaylov/node-server-logger.git"
     },
-    "author": "rulsoft",
+    "author": "velizarmihaylov",
     "license": "ISC",
     "dependencies": {
         "bunyan": "^1.8.12",
