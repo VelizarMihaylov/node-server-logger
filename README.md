@@ -113,10 +113,6 @@ Give an example
 * [lodash/fp](https://lodash.com/) A modern JavaScript utility library delivering modularity, performance & extras. 
 * [detect-browser](https://github.com/DamonOehlman/detect-browser) This is a package that attempts to detect a browser vendor and version (in a semver compatible format) using a navigator useragent in a browser or process.version in node.
 
-## Versioning
-
-TODO - we need to agree on that
-
 ## Authors
 
-Rullion Solutions 
+[Velizar Mihaylov](https://www.linkedin.com/in/velizarmihaylov/)
