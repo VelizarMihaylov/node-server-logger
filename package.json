@@ -1,6 +1,6 @@
 {
     "name": "node-server-logger",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "SPA Node Server Side Logger",
     "main": "index.js",
     "scripts": {
